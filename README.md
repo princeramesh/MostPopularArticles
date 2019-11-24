@@ -7,7 +7,7 @@ This project developed using RXJava, Dagger2, Retrofit etc.
 
 ## Screenshots:
 
-**Please check below images.**
+**Please check below app screenshot.**
 
 
 <p>

@@ -5,10 +5,12 @@ NY-Times-Most-Popular-Articles-Android with MVVM architecture. In this project w
 This project developed using RXJava, Dagger2, Retrofit etc.
 
 
+## Screenshots:
 
-Screen Shot:
-
-https://github.com/princeramesh/MostPopularArticles/blob/master/device-2019-11-24-234918.png
+**Please check below images.**
 
 
-https://github.com/princeramesh/MostPopularArticles/blob/master/device-2019-11-24-235230.png
+<p>
+<img src="device-2019-11-24-234918.png" width="200"/>
+<img src="device-2019-11-24-235230.png" width="200"/>
+</p>
